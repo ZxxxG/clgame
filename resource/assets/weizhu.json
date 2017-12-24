@@ -1,0 +1,11 @@
+{"mc":{
+  "weizhu":{
+	"frameRate":20,
+	"labels":[],
+	"frames":[
+	  			{"res":"weizhu0000","x":0,"y":0}
+	]
+  }},
+  "res":{
+		"weizhu0000": {"x":0,"y":0,"w":64,"h":91}
+  }}
